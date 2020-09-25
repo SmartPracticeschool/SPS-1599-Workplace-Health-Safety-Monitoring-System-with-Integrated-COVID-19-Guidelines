@@ -7,6 +7,6 @@
 $ pip install -r requirements.txt
 ```
 # tasks
-1.making for stored video 
+1.making for stored video <br>
 2.making for streaming video
 
